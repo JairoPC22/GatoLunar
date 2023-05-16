@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Gato Lunar</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="eres_nuevo_registrate">¿Eres nuevo? Registrate</string>
+    <string name="iniciar_sesion">Iniciar Sesion</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="correo_electronico">Correo Electronico</string>
+    <string name="recordar_contrase_a">Recordar contraseña</string>
+</resources>

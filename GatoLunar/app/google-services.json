@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "216211160152",
+    "project_id": "gatolunar",
+    "storage_bucket": "gatolunar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216211160152:android:e0540d58edba90ed7dde2d",
+        "android_client_info": {
+          "package_name": "com.example.gatolunar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216211160152-eb58386pgnjar0vj4kggq9qmfpi2qqvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_0CcPYH2qSzS225Y-4fWluONYFMNSyB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216211160152-eb58386pgnjar0vj4kggq9qmfpi2qqvi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
